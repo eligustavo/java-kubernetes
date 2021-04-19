@@ -14,7 +14,7 @@
 	<name>java-kubernates</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>15</java.version>
 		<maven-enforcer-plugin.version>3.0.0-M3</maven-enforcer-plugin.version>
 		<git-commit-id-plugin.version>4.0.0</git-commit-id-plugin.version>
 	</properties>
